@@ -1,0 +1,4 @@
+Epto is a small library and framework for industrial strength 
+bash script programming with sh. It features convenient error handling, 
+logging, option handling, documentation template, process level
+transaction safety (sort of), and more.
